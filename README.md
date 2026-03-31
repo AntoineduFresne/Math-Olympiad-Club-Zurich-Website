@@ -34,9 +34,3 @@ Shared LaTeX preamble with common packages and custom commands for problem docum
 
 ### `build.py`
 Static site generator — scans problems folder and generates HTML files in `docs/`.
-
-## Legacy Files (can be removed)
-
-- `app.py` — Old Flask app (no longer needed)
-- `Procfile` — Render/Heroku config (no longer needed)
-- `requirements.txt` — Can be simplified to just `jinja2`
