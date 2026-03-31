@@ -1,1 +1,1 @@
-# Olympiad Math Club at ETHZ
+# Math Olympiad Club Zurich
