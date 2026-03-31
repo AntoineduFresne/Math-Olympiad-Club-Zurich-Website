@@ -91,7 +91,7 @@ def build():
         print(f"✅ Built {output_name}")
 
     print(f"\n🎉 Site built in '{OUTPUT_DIR}/' folder")
-    print("Push to GitHub and enable GitHub Pages on the 'docs' folder")
+    print("Push to GitHub — the site deploys automatically via GitHub Actions.")
 
 
 if __name__ == "__main__":
